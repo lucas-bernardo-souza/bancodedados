@@ -1,0 +1,71 @@
+{
+    "luminarias":[
+        {
+            "um":[
+                "Pendente Aranha 6 lâmpadas",
+                "Luminária estilo pendente retro, não acompanha lâmpadas",
+                "R$ 80,00",
+                "img/pendente_aranha.jpeg"
+            ],
+            "dois":[
+                "Pendente Balão Preto",
+                "Luminária na cor preta, Obs: Valor unitário, imagem meramente ilustrativa",
+                "R$ 62,80",
+                "img/pendente_balao.jpg"  
+            ],
+            "tres":[
+                "Abajur retrô",
+                "Luminária de mesa, abajur construído em aramado retrô",
+                "Luminárias",
+                "R$ 87,90",
+                "img/abajur.jpg"    
+            ]
+        }
+    ],
+    "quadros":[
+        {
+            "um":[
+                "Quadro homem de ferro",
+                "Kit com 5 quadros mosaíco iron man",
+                "R$ 89,90",
+                "img/quadro_homemdeferro.jpeg" 
+            ],
+            "dois":[
+                "Quadrinhos pac man",
+                "Kit com 3 quadrinhos mosáico pac man",
+                "R$ 69,80",
+                "img/quadro_pacman.jpg" 
+            ],
+            "tres":[
+                "Quadrinho metamorfose feminina",
+                "Quadro grando, para deixar o ambiente com a sua cara.",
+                "R$ 267,80",
+                "img/quadro_metamorfose.jpg" 
+            ]
+        }
+    ],
+    "moveis":[
+        {
+            "um":[
+                "Mesa de centro vermut",
+                "Mesa de centro retrô branca, um item para realçar a beleza do seu ambiente",
+                "R$ 259,90",
+                "img/moveis_mesinha.jpg" 
+            ],
+            "dois":[
+                "Aparador vermut",
+                "Aparador ideal para expor suas bebidas com um toque de requinte",
+                "moveis",
+                "R$ 324,80",
+                "img/moveis_aparador.jpg"  
+            ],
+            "tres":[
+                "Espelho decorativo",
+                "Espelho grande redondo",
+                "moveis",
+                "R$ 165,50",
+                "img/moveis_espelho.jpeg"  
+            ]
+        }  
+    ]
+}
